@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  /* Replace with the real hex codes from your Figma color styles */
+  --color-brand-1: #0f2a4a;
+  --color-brand-2: #1e88e5;
+  --color-brand-3: #5fb0f0;
+  --color-brand-4: #c5e2fa;
+  --color-brand-5: #e6f2fc;
+}
